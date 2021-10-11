@@ -1,0 +1,20 @@
+{
+  "label" : "JSON Object Manager",
+  "description" : "Queries JSON objects and returns strings", 
+  "Initialize.label" : "Initialize",
+  "Initialize.description" : "Queries JSON objects and returns strings",
+  "Initialize.return_label" : "Returns string",
+  "Initialize.session" : "Provide a session name for future access",
+  "Initialize.value" : "Provide a properly formatted JSON Object string",
+  "Query.label": "Query",
+  "Query.description" : "Queries JSON object with dot notation",
+  "Query.return_label" : "returned string",
+  "Query.session" : "Session Name",
+  "Query.value" : "JSON query string",
+  "Set.label" : "Set",
+  "Set.description" : "Modify a value on a JSON key",
+  "Set.return_label" : "Updated JSON element",
+  "Set.session" : "Provide a session name for access",
+  "Set.path" : "The path to a JSON element, must be definite",
+  "Set.value" : "New key value to use"
+}

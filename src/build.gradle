@@ -1,0 +1,6 @@
+ext {
+    version '2.0.0'
+}
+dependencies {
+	implementation project(':command-sdk:i18n-api')
+}

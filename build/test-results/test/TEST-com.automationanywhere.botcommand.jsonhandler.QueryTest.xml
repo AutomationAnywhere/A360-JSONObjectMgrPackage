@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.automationanywhere.botcommand.jsonhandler.QueryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-21T15:49:16" hostname="AAUS371QLJKK" time="0.028">
+  <properties/>
+  <testcase name="queryTest" classname="com.automationanywhere.botcommand.jsonhandler.QueryTest" time="0.028"/>
+  <system-out><![CDATA[com.jayway.jsonpath.internal.JsonContext@73714a8d
+com.jayway.jsonpath.internal.JsonContext@2ed682de
+com.jayway.jsonpath.internal.JsonContext@578a80ab
+java.util.LinkedHashMap
+X-{"object2":"value1"}
+{"object2":"value1"}
+java.lang.Integer
+3
+Path not found
+java.lang.Double
+X3=0.082208
+net.minidev.json.JSONArray
+X-[{"object1":"object2"},{"object3":"object4"}]
+[{"object1":"object2"},{"object3":"object4"}]
+java.lang.Integer
+2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

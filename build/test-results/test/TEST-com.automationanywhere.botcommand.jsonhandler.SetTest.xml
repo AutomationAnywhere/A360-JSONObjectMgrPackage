@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.automationanywhere.botcommand.jsonhandler.SetTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-21T15:49:17" hostname="AAUS371QLJKK" time="0.007">
+  <properties/>
+  <testcase name="setTest" classname="com.automationanywhere.botcommand.jsonhandler.SetTest" time="0.007"/>
+  <system-out><![CDATA[com.jayway.jsonpath.internal.JsonContext@6fabd765
+com.jayway.jsonpath.internal.JsonContext@17cffbcb
+java.lang.String
+X-{"object1":{"object2":"value1"},"object3":3,"object4":[{"object5":"value5"},{"object6":"value6"}]}
+{"object1":{"object2":"value1"},"object3":3,"object4":[{"object5":"value5"},{"object6":"value6"}]}
+java.lang.String
+X-value1
+value1
+net.minidev.json.JSONArray
+X-["value5"]
+["value5"]
+com.jayway.jsonpath.internal.JsonContext@6fabd765
+java.lang.String
+X-value1
+value1
+java.lang.String
+X-{"object1":{"object2":"value1"},"object3":3,"object4":[{"object5":"tim"},{"object6":"value6"}]}
+{"object1":{"object2":"value1"},"object3":3,"object4":[{"object5":"tim"},{"object6":"value6"}]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
